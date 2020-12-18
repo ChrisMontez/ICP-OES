@@ -7,7 +7,6 @@ Exploratory data-visualization on various datasets acquired using inductively co
 
 ## :wrench: Progress
 
-![GitHub Logo](/img/fig1.png)
-Format: ![Alt Text](example.com)
+* [Flag Boshielo Dam](https://github.com/ChrisMontez/ICP-OES/tree/main/Flag%20Boshielo%20Dam)
 
 
