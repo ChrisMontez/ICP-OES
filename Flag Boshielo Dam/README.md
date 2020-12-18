@@ -6,7 +6,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES analy
 <img src="img/fig2.jpg">
 
 
-## :thought_balloon: Background 
+ 
 
 
 
