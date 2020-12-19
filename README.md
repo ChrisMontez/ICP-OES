@@ -1,5 +1,6 @@
 # ICP-OES
-
+## :thought_balloon: Objective 
+To explore various datasets acquired using inductively coupled plasma-optical emission spectrometry.
 
 ## :wrench: Progress
 
