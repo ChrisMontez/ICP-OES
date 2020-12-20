@@ -18,7 +18,7 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 
 <p align = "center" >
 
-<img src="img/om_gill.png" alight = "left">
+<img src="img/om_gill.png" alight = "left" width="100">
 
 
 
