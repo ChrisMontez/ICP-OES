@@ -5,11 +5,15 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES analy
 
 **Fig. 1** Liver (square), Gill (circle) and Muscle (triangle). Summer (unfilled) and Winter (filled). 2014,
 
+<p align = "center" >
 <img src="img/fig1.jpg">
+</p>
 
 **Fig. 2**  Liver (square), Gill (circle) and Muscle (triangle) of Labeo rosae (filled) and Oreochromis mossambicus (unfilled).
 
+<p align = "center" >
 <img src="img/fig2.jpg">
+</p>
 
 *Lebepe J, Oberholster PJ, Luus-Powell WJ. Dataset of metal(loid) concentrations recorded in the tissues of two fish species from Flag Boshielo Dam, South Africa. Data Brief. 2020;33:106396. Published 2020 Oct 9. doi:10.1016/j.dib.2020.106396*
 
