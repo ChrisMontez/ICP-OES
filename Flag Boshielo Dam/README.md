@@ -24,12 +24,12 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 </p>
 
 <p>
-<img src="img/om_liver.png" align = "left" width="400">
-<img src="img/lr_liver.png" align = "right" width="400">
+<img src="img/om_liver.png"  width="400">
+<img src="img/lr_liver.png"  width="400">
 </p>
 <p>
-<img src="img/om_muscle.png" align = "left" width="400">
-<img src="img/lr_muscle.png" align = "right" width="400">
+<img src="img/om_muscle.png"  width="400">
+<img src="img/lr_muscle.png"  width="400">
 
 </p>
 
