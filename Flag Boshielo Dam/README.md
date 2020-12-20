@@ -17,7 +17,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 </p>
 
 ## :bar_chart: Data Analysis 
-A supplementary XLS file with data pertaining to the fish specimens' morphometry and the concentrations of metal(loid)s were provided by The National Center for Biotechnology Information and the scientists from University of KwaZulu-Natal. This is an exploratory analysis of that data. The original files were converted to CSV files are titled fish_tissues.csv' and 'fish_morphometry.csv'. The code behind the  visualizations below can be found in the Jupyter notebook titled "Data Visualization.ipynb".
+A supplementary XLS file with data pertaining to the fish specimens' morphometry and the concentrations of metal(loid)s were provided by The National Center for Biotechnology Information and the scientists from University of KwaZulu-Natal. This is an exploratory analysis of that data. The original files were converted to CSV format and titled fish_tissues.csv' and 'fish_morphometry.csv'. The code behind the  visualizations below can be found in the Jupyter notebook titled "Data Visualization.ipynb".
 
 <p align = "center" >
 
