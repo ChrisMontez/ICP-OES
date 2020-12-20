@@ -36,11 +36,11 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 <img src="img/om_muscle.png"  width="400">
 <img src="img/lr_muscle.png"  width="400">
 
-</p align = "center">
+</p>
 
 ## :electric_plug: Instrumentation 
 Perkin Elmer, Optima 2100 DV [Detection limit: 0.01 mg/L]
-<p >
+<p align = "center" >
 <img src="img/instrument.jpg"  width="200">
 
 </p>
