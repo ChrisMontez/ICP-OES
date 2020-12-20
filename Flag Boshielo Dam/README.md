@@ -18,20 +18,18 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 
 <p align = "center" >
 
-<img src="img/om_gill.png" alight = "left" width="400">
-
-
-
-<img src="img/lr_gill.png" alight = "right" width="400">
+<img src="img/om_gill.png" align = "left" width="400">
+<img src="img/lr_gill.png" align = "right" width="400">
 
 </p>
 
 <p>
-<img src="img/om_liver.png">
-<img src="img/lr_liver.png">
-
-<img src="img/om_muscle.png">
-<img src="img/lr_muscle.png">
+<img src="img/om_liver.png" align = "left" width="400">
+<img src="img/lr_liver.png" align = "right" width="400">
+</p>
+<p>
+<img src="img/om_muscle.png" align = "left" width="400">
+<img src="img/lr_muscle.png" align = "right" width="400">
 
 </p>
 
