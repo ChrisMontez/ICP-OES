@@ -16,6 +16,8 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES analy
 ## :bar_chart: Data Analysis 
 A supplementary XLS file with data partaining to the fish specimens morphometry and the concentrations of metal(loid)s recorded in the varying organs was provided by The National Center for Biotechnology Information. 
 
+<img src="img/om_gill.png">
+
 
 
 
