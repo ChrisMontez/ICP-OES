@@ -14,8 +14,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES analy
 *Lebepe J, Oberholster PJ, Luus-Powell WJ. Dataset of metal(loid) concentrations recorded in the tissues of two fish species from Flag Boshielo Dam, South Africa. Data Brief. 2020;33:106396. Published 2020 Oct 9. doi:10.1016/j.dib.2020.106396*
 
 ## :bar_chart: Data Analysis 
-A supplementary XLS file with data partaining to the fish specimens morphometry and the concentrations of metal(loid)s recorded in the varying organs was provided by The National Center for Biotechnology Information. 
-
+A supplementary XLS file with data pertaining to the fish specimens' morphometry and the concentrations of metal(loid)s recorded in the varying organs was provided by The National Center for Biotechnology Information and the scientists from University of KwaZulu-Natal. This is an exploratory analysis of that data. The code behind these visualizations can be found in the Jupyter notebook titled "Data Visualization.ipynb".
 <img src="img/om_gill.png">
 <img src="img/lr_gill.png">
 
