@@ -41,7 +41,7 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 
 ## :bulb: Work to be done
 * Scale y-axis on graphs equally between species
-* Minimize text on graphs by combining y-axis between species 
+
 
 
 
