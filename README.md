@@ -38,9 +38,7 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 
 ##  Instrumentation 
 Perkin Elmer, Optima 2100 DV [Detection limit: 0.01 mg/L]
-<p>
-<img src="img/instrument.jpg"  width="300">
-</p>
+
 
 
 ##  Work to be done
