@@ -1,6 +1,6 @@
 #  Metal Contamination in the Flag Boshielo Dam
 <br>
-<br> 
+ 
 
 ## Background 
 Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES experiments to assess contamination in the Flag Boshielo Dam. They found that when a body of water is introduced to metal contamination it is retained by the various organisms and bottom sediment rather than remaining suspended in the water. They then performed non-metric multidimensional scaling ordination  on the metal(loid) concentrations within the gill, liver, and muscle of two fish species during two different seasons. The resulting cluster analysis below shows little difference between metal concentration within the fish analyzed  during the winter and summer **[Fig 1.]** while showing statistically notable differences between the metal concentration between the two species **[Fig 2.]**. <br> <br> <br>  
