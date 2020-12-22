@@ -6,7 +6,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 
 
 
-**Fig. 1** Liver (square), Gill (circle) and Muscle (triangle).Summer (unfilled) and Winter (filled). 2014. 
+**Fig. 1** Liver (square), Gill (circle) and Muscle (triangle). Summer (unfilled) and Winter (filled). 2014. 
 <br>
 <br>
 
@@ -19,8 +19,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 <br>
 
 **Fig. 2**  Liver (square), Gill (circle) and Muscle (triangle) of Labeo rosae (filled) and Oreochromis mossambicus (unfilled).
-<br>
-<br>
+
 
 <p align = "center" >
 <img src="img/fig2.jpg"  width="400">
