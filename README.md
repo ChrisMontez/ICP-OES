@@ -27,15 +27,14 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 <img src="img/fig2.jpg"  width="400">
 </p>
 
-
+##  Instrumentation 
+Perkin Elmer, Optima 2100 DV [Detection limit: 0.01 mg/L]
  
 
 ##  Analysis 
 A supplementary XLS file with data pertaining to the fish specimens' morphometry and the concentrations of metal(loid)s were provided by The National Center for Biotechnology Information and the scientists from University of KwaZulu-Natal. This is an exploratory analysis of that data. The original files were converted to CSV format and titled fish_tissues.csv' and 'fish_morphometry.csv'. The code behind the  visualizations below can be found in the Jupyter notebook titled "Data Visualization.ipynb".
-### Python Libraries Used 
-* NumPy
-* Matplotlib
-* Seaborn
+
+
 
 
 
@@ -56,8 +55,12 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 
 </p>
 
-##  Instrumentation 
-Perkin Elmer, Optima 2100 DV [Detection limit: 0.01 mg/L]
+
+
+##  Python Libraries
+* NumPy
+* Matplotlib
+* Seaborn
 
 
 
