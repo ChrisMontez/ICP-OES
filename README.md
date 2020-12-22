@@ -12,8 +12,8 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 
 **Fig. 2**  Liver (square), Gill (circle) and Muscle (triangle) of Labeo rosae (filled) and Oreochromis mossambicus (unfilled).
 
-<p align = "left" >
-	testing
+<p align = "center" >
+	<p>testing</p>
 <img src="img/fig2.jpg"  width="400">
 </p>
 
