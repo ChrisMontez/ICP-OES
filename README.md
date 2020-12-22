@@ -27,7 +27,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 <img src="img/fig2.jpg"  width="400">
 </p>
 
-<br>
+
  
 
 ##  Analysis 
