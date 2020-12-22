@@ -6,7 +6,7 @@ Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES exper
 
 
 
-### **Fig. 1** Liver (square), Gill (circle) and Muscle (triangle). Summer (unfilled) and Winter (filled). 2014. 
+#### **Fig. 1** Liver (square), Gill (circle) and Muscle (triangle). Summer (unfilled) and Winter (filled). 2014. 
 <br>
 
 
