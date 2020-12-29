@@ -64,10 +64,6 @@ A supplementary XLS file with data pertaining to the fish specimens' morphometry
 
 
 
-##  Work to be done
-* Scale y-axis on graphs equally between species
-
-
 ##  References
 
 **1.**   Lebepe J, Oberholster PJ, Luus-Powell WJ. Dataset of metal(loid) concentrations recorded in the tissues of two fish species from Flag Boshielo Dam, South Africa. Data Brief. 2020;33:106396. Published 2020 Oct 9. doi:10.1016/j.dib.2020.106396
