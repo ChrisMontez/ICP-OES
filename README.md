@@ -3,7 +3,7 @@
  
 
 ## Background 
-Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES experiments to assess contamination in the Flag Boshielo Dam. They found that when a body of water is introduced to metal contamination it is retained by the various organisms and bottom sediment rather than remaining suspended in the water. They then performed non-metric multidimensional scaling ordination  on the metal(loid) concentrations within the gill, liver, and muscle of two fish species during two different seasons. The resulting clusters showed little difference in metal concentration within the fish when the seasons varied between winter and summer **[Fig 1.]** and showed statistically notable differences upon analysis of the gills and muscles **[Fig 2.]**. <br> <br> 
+Scientists from  University of KwaZulu-Natal conducted an array of ICP-OES experiments to assess contamination in the Flag Boshielo Dam. They found that when a body of water is introduced to metal contamination it is retained by the various organisms and bottom sediment rather than remaining suspended in the water. They then performed non-metric multidimensional scaling ordination  on the metal(loid) concentrations within the gill, liver, and muscle of two fish species during two different seasons. The resulting clusters showed little difference in metal concentration within the fish when the seasons varied between winter and summer **[Fig 1.]** while showing statistically notable differences upon analysis of the gills and muscles **[Fig 2.]**. <br> <br> 
 
 
 
